@@ -23,18 +23,17 @@ function Home2() {
               <br />
               <br />Eu me dou muito bem com
               <i>
-                <b className="purple"> Python, Javascript, e Java. </b>
+                <b className="purple"> Python, Javascript, e Java</b>. Principalmente Java EE, onde nasceu minha paixão por Web.
               </i>
               <br />
               <br />
-              Meus campos de interesse poderiam ser resumidos a criar soluções &nbsp;
+              Meus campos de interesse poderiam ser resumidos a criar soluções e tecnologias &nbsp;
               <i>
-                <b className="purple">com tecnologias e produtos web </b> e areas
-                relacionadas..{" "}
+                <b className="purple">web</b>. Seja essa tecnologia legada ou nao ^_^{" "}
               </i>
               <br />
               <br />
-              Sempre que possíve, também gosto de aplicar minha paixão secundária para desenvolver jogos. Eu até chamaria isso de hobbie...
+              Sempre que possível, também gosto de aplicar minha paixão secundária para desenvolver jogos. Eu até chamaria isso de hobbie...
             </p>
           </Col>
           <Col md={4} className="myAvtar">
