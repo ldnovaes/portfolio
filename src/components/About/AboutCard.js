@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Olá, eu me chamo <span className="purple">Leandro Duarte, </span>
-            e moro em <span className="purple"> Brasília, Brazil.</span>
+            e moro em <span className="purple"> Brasília, Brasil.</span>
             <br /> Sou certificado por Harvard em "Computer Science for Python Programming".
             <br />
             Atualmente estou trabalhando como Desenvolvedor Back-End, com sede em aprender a cada dia mais um pouco sobre essa área ao qual sou apaixonado: Desenvolvimento Web.
